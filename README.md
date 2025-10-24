@@ -6,7 +6,7 @@
   <img src="https://64.media.tumblr.com/9ce47a377907b8c86438e225689a6269/c87adbf042de6f9b-f6/s1280x1920/e1d8c200971b8edaa0d2f44d23b3bd22c0d1b407.pnj">
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=78b330&style=plastic&label=view&LabelColor=d13a34) <!-- this is a profile view counter! make sure to edit "YOUR-GITHUB-USERNAME"! --> <img src="https://64.media.tumblr.com/c11ba0d53b0d8137813493d9ffe667df/332662bcadb2f47e-69/s75x75_c1/67cfcfa0e9d97f1eedfd31eef35ed1557f855d5d.gifv" width="35">
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?color=d13a34&style=plastic&labelColor=78b330&label=bugs"/> <!-- this is a profile view counter! make sure to edit "YOUR-GITHUB-USERNAME"! 
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?color=d13a34&style=plastic&labelColor=78b330&label=bugs"/> <!-- this is a profile view counter! make sure to edit "YOUR-GITHUB-USERNAME"! -->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sunshiney&size=30&duration=10&pause=1000&color=78B330&background=FAFFD100&repeat=false&width=371&lines=Ladybug+hugs+%5E_%5E" alt="Typing SVG" /></a> <br>
 <!-- you can edit anything below this!-->
