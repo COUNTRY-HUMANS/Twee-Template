@@ -14,9 +14,9 @@ INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO 
 <!-- you can edit anything above this!-->
 
 
-<img src="https://64.media.tumblr.com/9e57e0345a5d3250ea3bb892039fb35e/c87adbf042de6f9b-16/s250x400/dadb886538f678f978a6aabde850dc50e4785746.gifv">
-<img src="https://64.media.tumblr.com/e2d60128f0dc6d2dca572ce3b719b407/b0f8ae2c71ab1f2b-a4/s250x400/2d96702e59ae289faeef17d7dff6d16148035cee.gifv">
-<img src="https://64.media.tumblr.com/5c5dccd216bd957fae8350c3db002540/c87adbf042de6f9b-e3/s250x400/65b284ce30e2408f18366454936e7efef321485d.gifv">
+<img src="https://64.media.tumblr.com/9e57e0345a5d3250ea3bb892039fb35e/c87adbf042de6f9b-16/s250x400/dadb886538f678f978a6aabde850dc50e4785746.gifv" width="100">
+<img src="https://64.media.tumblr.com/e2d60128f0dc6d2dca572ce3b719b407/b0f8ae2c71ab1f2b-a4/s250x400/2d96702e59ae289faeef17d7dff6d16148035cee.gifv" width="100">
+<img src="https://64.media.tumblr.com/5c5dccd216bd957fae8350c3db002540/c87adbf042de6f9b-e3/s250x400/65b284ce30e2408f18366454936e7efef321485d.gifv" width="100">
   
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sunshiney&size=30&duration=10&pause=1000&color=D13A34&background=FAFFD100&repeat=false&width=400&lines=Butterfly+kisses+%3C3" alt="Typing SVG" /></a> <br>
